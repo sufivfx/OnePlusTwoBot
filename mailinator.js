@@ -4,8 +4,8 @@
 //get the mail id
 var https=require('https');
 
-var apikey="Your Mailinator Api Key";
-var oneplusId="Your one plus token";
+var apikey="sufimanzil@gmail.com";
+var oneplusId="AZMTFN";
 x=function(){
 	console.log('inside');
 	https.get('https://www.mailinator.com', function(res) {
